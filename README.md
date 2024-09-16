@@ -1,7 +1,10 @@
 <div align="center">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-master&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=vision-friendly-dark" /></a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&theme=vision-friendly-dark" /></a> 
-  
+  <hr>
+  <h2>Who am I?</h2>
+  <h4> After a successful career in customer service and sales within the banking, utilities, and telecommunications sectors, I transitioned into software engineering through an intensive bootcamp where I honed my skills in full stack development. Owing to my background in problem-solving, communication, and teamwork, combined with my passion for web development, I am well-equipped to tackle complex projects and collaborate effectively with teams. I’m excited to apply my skills to create meaningful, web-based applications. </h3>
+  <hr>
 </div>
 <!--
 **Sunny-Master/Sunny-Master** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
