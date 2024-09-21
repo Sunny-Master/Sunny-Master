@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-master&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&theme=react" /></a> 
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-master&hide=stars,issues&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=react" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&card_width=325px&theme=react" /></a> 
   <hr>
   <h2>Who am I?</h2>
   <h4> After a successful career in customer service and sales within the banking, utilities, and telecommunications sectors, I transitioned into software engineering through an intensive bootcamp where I honed my skills in full stack development. Owing to my background in problem-solving, communication, and teamwork, combined with my passion for web development, I am well-equipped to tackle complex projects and collaborate effectively with teams. I’m excited to apply my skills to create meaningful, web-based applications. </h3>
