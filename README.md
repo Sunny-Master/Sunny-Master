@@ -26,6 +26,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>  
     <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />  </a>
     <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
+    <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />  </a>
     <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
     <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
     <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
