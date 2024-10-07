@@ -1,7 +1,8 @@
 <div align="center">
-  <img align="center" src="https://i.imgur.com/eiu1b22.jpg"
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-master&hide=stars,issues&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&line_height=30&theme=react" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&card_width=325px&theme=react" /></a> 
+  <img align="center" src="https://i.imgur.com/eiu1b22.jpg">
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-master&theme=dark&show_icons=true&hide_border=false&count_private=true&hide=stars,issues&hide_rank=true&line_height=30" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&card_width=325px&theme=dark" /></a>
+  <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-master&theme=dark&hide_border=false" /></a>
   <hr>
   <h2>Who am I?</h2>
   <h4> After a successful career in customer service and sales within the banking, utilities, and telecommunications sectors, I transitioned into software engineering through an intensive bootcamp where I honed my skills in full stack development. Owing to my background in problem-solving, communication, and teamwork, combined with my passion for web development, I am well-equipped to tackle complex projects and collaborate effectively with teams. I’m excited to apply my skills to create meaningful, web-based applications. </h3>
