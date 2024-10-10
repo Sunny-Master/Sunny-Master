@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="https://i.imgur.com/eiu1b22.jpg">
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sunny-master&theme=dark&show_icons=true&hide_border=false&count_private=true&hide=stars,issues&hide_rank=true&line_height=30" /></a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&card_width=325px&theme=dark" /></a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny-master&layout=compact&card_width=325px&theme=dark&count_private=true" /></a>
   <a href="#"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunny-master&theme=dark&hide_border=false&count_private=true" /></a>
   <hr>
   <h2>Who am I?</h2>
